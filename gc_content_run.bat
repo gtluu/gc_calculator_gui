@@ -1,0 +1,1 @@
+C:\ProgramData\Anaconda2\python.exe C:\Users\gordon\PycharmProjects\gui\gc_content.py
